@@ -9,3 +9,5 @@ This project explores a Goodreads dataset using Tableau to uncover insights abou
 4. Books by Publication Date
 5. Top 10 Language Codes
 6. Overview of books by various categories and metrics
+
+![Screenshot 2024-05-02 104023](https://github.com/user-attachments/assets/1c4d88f2-fd29-4073-b49e-602534fb4cf3)
